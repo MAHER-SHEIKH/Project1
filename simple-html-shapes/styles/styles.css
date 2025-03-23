@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f37a16;
+}
+
+.shape {
+    margin: 20px;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: #4CAF50;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: #21f38a;
+    border-radius: 50%;
+}
+
+.rectangle {
+    width: 200px;
+    height: 100px;
+    background-color: #FF5722;
+}
